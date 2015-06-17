@@ -1,4 +1,4 @@
-## Unity Space Shooter - F#
+## Unity Space Shooter - F\# 
 
 This is a version of the Unity Space Shooter beginner tutorial
 with slight modifications for Unity 5 (primarily, using UI text
